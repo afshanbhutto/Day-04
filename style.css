@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(245, 245, 46);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color: blueviolet;
+}
+#text1 {
+  color: blue;
+}
+.heading1 {
+  color: brown;
+}
+.heading2 {
+  color: rgb(24, 172, 4);
+}
+#text1 {
+  color: rgb(255, 0, 128);
+}
+#text2 {
+  color: rgb(255, 0, 21);
+}
+#text3 {
+  color: rgb(148, 211, 0);
+}
+p {
+  color: rgb(5, 80, 80);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
